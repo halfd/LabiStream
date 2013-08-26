@@ -13,3 +13,5 @@ The primary goal of this project is to develop a browser based (pure HTML5/JS), 
 http://webp2p.org/
 
 http://www.webrtc.org/
+
+http://peerjs.com/
